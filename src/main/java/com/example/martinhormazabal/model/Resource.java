@@ -1,8 +1,6 @@
 package com.example.martinhormazabal.model;
 
-
 import java.time.LocalDate;
-
 import lombok.Data;
 
 @Data
@@ -16,4 +14,3 @@ public class Resource {
     private String tipo;
     private int cantidad;
 }
-
